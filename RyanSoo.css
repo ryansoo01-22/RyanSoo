@@ -25,6 +25,29 @@ header{
     z-index: 100;
 }
 
+header div{
+    background-color: rgb(10, 13, 230);
+    color: rgb(255, 255, 255);
+    width: 45px;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+    margin-left: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+header div a{
+    color: white;
+}
+
+header div a:visited{
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    margin-bottom: 15px;
+}
 nav{
     background-color: #4990fc;
 }
@@ -53,3 +76,167 @@ nav ul li a:visited{
     color: rgb(0, 0, 255);
 }
 
+.tab1Index{
+    position: relative;
+    left: 640px;
+    top: 25px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab2Index{
+    position: relative;
+    left: 765px;
+    top: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab3Index{
+    position: relative;
+    left: 890px;
+    bottom: 23px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab1IndexSelected{
+    position: relative;
+    left: 640px;
+    top: 25px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab2IndexSelected{
+    position: relative;
+    left: 765px;
+    top: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab3IndexSelected{
+    position: relative;
+    left: 890px;
+    bottom: 23px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab1AboutMe{
+    position: relative;
+    left: 640px;
+    top: 25px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab2AboutMe{
+    position: relative;
+    left: 765px;
+    top: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab3AboutMe{
+    position: relative;
+    left: 890px;
+    bottom: 23px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab1AboutMeSelected{
+    position: relative;
+    left: 640px;
+    top: 25px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab2AboutMeSelected{
+    position: relative;
+    left: 765px;
+    top: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab3AboutMeSelected{
+    position: relative;
+    left: 890px;
+    bottom: 23px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab1{
+    position: relative;
+    left: 640px;
+    top: 25px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab2{
+    position: relative;
+    left: 765px;
+    top: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab3{
+    position: relative;
+    left: 890px;
+    bottom: 23px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+section{
+    position: relative;
+    left: 640px;
+    border-style: solid;
+    border-color: black;
+    width: 640px;
+    height: 500px;
+    bottom: 25px;
+}
