@@ -202,6 +202,132 @@ nav ul li a:visited{
     background-color: #8bd2ff;
 }
 
+.tab1Experience{
+    position: relative;
+    left: 640px;
+    top: 25px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab2Experience{
+    position: relative;
+    left: 765px;
+    top: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab3Experience{
+    position: relative;
+    left: 890px;
+    bottom: 23px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab1ExperienceSelected{
+    position: relative;
+    left: 640px;
+    top: 25px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab2ExperienceSelected{
+    position: relative;
+    left: 765px;
+    top: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab3ExperienceSelected{
+    position: relative;
+    left: 890px;
+    bottom: 23px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab1Projects{
+    position: relative;
+    left: 640px;
+    top: 25px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab2Projects{
+    position: relative;
+    left: 765px;
+    top: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab3Projects{
+    position: relative;
+    left: 890px;
+    bottom: 23px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+}
+
+.tab1ProjectsSelected{
+    position: relative;
+    left: 640px;
+    top: 25px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab2ProjectsSelected{
+    position: relative;
+    left: 765px;
+    top: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
+.tab3ProjectsSelected{
+    position: relative;
+    left: 890px;
+    bottom: 23px;
+    border-style: solid;
+    border-color: black;
+    width: 125px;
+    text-align: center;
+    background-color: #8bd2ff;
+}
+
 .tab1{
     position: relative;
     left: 640px;
