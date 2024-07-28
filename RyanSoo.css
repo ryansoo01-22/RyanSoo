@@ -48,6 +48,10 @@ header div a:visited{
 h1{
     margin-bottom: 15px;
 }
+
+h2{
+    text-align: center;
+}
 nav{
     background-color: #4990fc;
 }
@@ -165,7 +169,7 @@ nav ul li a:visited{
     bottom: 23px;
     border-style: solid;
     border-color: black;
-    width: 125px;
+    width: 175px;
     text-align: center;
 }
 
@@ -197,7 +201,7 @@ nav ul li a:visited{
     bottom: 23px;
     border-style: solid;
     border-color: black;
-    width: 125px;
+    width: 175px;
     text-align: center;
     background-color: #8bd2ff;
 }
