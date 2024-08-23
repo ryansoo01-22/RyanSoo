@@ -209,17 +209,18 @@ nav ul li a:visited{
 .tab1Experience{
     position: relative;
     left: 640px;
-    top: 25px;
+    top: 98px;
     border-style: solid;
     border-color: black;
     width: 125px;
+    height: 60px;
     text-align: center;
 }
 
 .tab2Experience{
     position: relative;
     left: 765px;
-    top: 1px;
+    top: 38px;
     border-style: solid;
     border-color: black;
     width: 125px;
@@ -229,20 +230,22 @@ nav ul li a:visited{
 .tab3Experience{
     position: relative;
     left: 890px;
-    bottom: 23px;
+    bottom: 22px;
     border-style: solid;
     border-color: black;
     width: 125px;
+    height: 60px;
     text-align: center;
 }
 
 .tab1ExperienceSelected{
     position: relative;
     left: 640px;
-    top: 25px;
+    top: 98px;
     border-style: solid;
     border-color: black;
     width: 125px;
+    height: 60px;
     text-align: center;
     background-color: #8bd2ff;
 }
@@ -250,7 +253,7 @@ nav ul li a:visited{
 .tab2ExperienceSelected{
     position: relative;
     left: 765px;
-    top: 1px;
+    top: 38px;
     border-style: solid;
     border-color: black;
     width: 125px;
@@ -261,10 +264,11 @@ nav ul li a:visited{
 .tab3ExperienceSelected{
     position: relative;
     left: 890px;
-    bottom: 23px;
+    bottom: 22px;
     border-style: solid;
     border-color: black;
     width: 125px;
+    height: 60px;
     text-align: center;
     background-color: #8bd2ff;
 }
@@ -272,26 +276,27 @@ nav ul li a:visited{
 .tab1Projects{
     position: relative;
     left: 640px;
-    top: 25px;
+    top: 96px;
     border-style: solid;
     border-color: black;
     width: 125px;
+    height: 59px;
     text-align: center;
 }
 
 .tab2Projects{
     position: relative;
     left: 765px;
-    top: 1px;
+    top: 37px;
     border-style: solid;
     border-color: black;
-    width: 125px;
+    width: 155px;
     text-align: center;
 }
 
 .tab3Projects{
     position: relative;
-    left: 890px;
+    left: 918px;
     bottom: 23px;
     border-style: solid;
     border-color: black;
@@ -302,10 +307,11 @@ nav ul li a:visited{
 .tab1ProjectsSelected{
     position: relative;
     left: 640px;
-    top: 25px;
+    top: 96px;
     border-style: solid;
     border-color: black;
     width: 125px;
+    height: 59px;
     text-align: center;
     background-color: #8bd2ff;
 }
@@ -313,17 +319,17 @@ nav ul li a:visited{
 .tab2ProjectsSelected{
     position: relative;
     left: 765px;
-    top: 1px;
+    top: 37px;
     border-style: solid;
     border-color: black;
-    width: 125px;
+    width: 155px;
     text-align: center;
     background-color: #8bd2ff;
 }
 
 .tab3ProjectsSelected{
     position: relative;
-    left: 890px;
+    left: 918px;
     bottom: 23px;
     border-style: solid;
     border-color: black;
