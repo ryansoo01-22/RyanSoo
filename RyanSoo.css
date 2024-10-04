@@ -327,7 +327,7 @@ nav ul li a:visited{
 .tab1ProjectsSelected{
     position: relative;
     left: 640px;
-    top: 71px;
+    top: 25px;
     border-style: solid;
     border-color: black;
     width: 125px;
@@ -339,7 +339,7 @@ nav ul li a:visited{
 .tab2ProjectsSelected{
     position: relative;
     left: 765px;
-    top: 11px;
+    bottom: 35px;
     border-style: solid;
     border-color: black;
     width: 155px;
@@ -350,7 +350,7 @@ nav ul li a:visited{
 .tab3ProjectsSelected{
     position: relative;
     left: 918px;
-    bottom: 49px;
+    bottom: 95px;
     border-style: solid;
     border-color: black;
     width: 125px;
